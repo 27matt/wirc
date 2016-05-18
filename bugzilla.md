@@ -1,1 +1,0 @@
-The Bugzilla Log File
